@@ -1,20 +1,8 @@
-h1 {
-  color: red;
-  background: yellow;
-  margin: 50px;
-  font-size: 50px;
-  font-family: "Comic Sans MS";
-  border: 20px solid;
-  text-align: center
+body{
+  background: #f5e4ac;
 }
 p {
-  color: yellow;
-  background: #00FF00;
-  padding: 50px;
-  border: 20px solid;
-  border-color: cyan;
-  text-align: right
-}
-b {
-  background: white;
+  color: rgb(40, 100, 100);
+  text-align: left;
+  font-family: 'Comic Sans MS';
 }
