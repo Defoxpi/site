@@ -6,3 +6,7 @@ p {
   text-align: left;
   font-family: 'Comic Sans MS';
 }
+li{
+  font-family: 'Comic Sans MS';
+  color: rgb(40, 100, 100);
+}
